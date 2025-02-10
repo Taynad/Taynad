@@ -5,14 +5,14 @@
 
 💻 Focada no desenvolvimento fullstack
     <p align="left">
-    <a href="https://www.linkedin.com/in/tayna-dos-santos-9b61b2219/">
+    <a href="https://www.linkedin.com/in/tayna-dos-santos-9b61b2219/" target="_blank">
         <img 
             alt="linkedin" 
             title="Acesse meu linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="taynasantos20191@outlook.com">
+    <a href="mailto:taynasantos20191@outlook.com" target="_blank">
         <img 
             alt="outlook" 
             title="Meu e-mail" 
@@ -82,20 +82,8 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=taynad&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynad&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div>
+  <a href="https://github.com/taynad">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taynad&&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taynad&layout=compact&langs_count=7&theme=dark"/>
+</div>
