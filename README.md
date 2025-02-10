@@ -81,6 +81,7 @@
 <br/>
 
 ### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
